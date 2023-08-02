@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	dzea dzea dzea@szea.cz
     <name> -- <role> -- <twitter>
 
 # THANKS
